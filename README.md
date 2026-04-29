@@ -9,3 +9,5 @@ Tools used:
 - Python
 - pandas
 - matplotlib
+
+![AMOC Timeseries](AMOCTimeSeries)
