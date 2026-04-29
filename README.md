@@ -10,4 +10,4 @@ Tools used:
 - pandas
 - matplotlib
 
-![View Map](AMOCTimeSeries.png)
+![Atlantic Meridional Overturning Circulation Streamfunction Timeseries](AMOC_TimeSeries.png)
