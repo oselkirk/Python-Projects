@@ -14,6 +14,12 @@ Tools used:
 
 ![Atlantic Meridional Overturning Circulation Streamfunction Timeseries](AMOC_TimeSeries.png)
 
-## Heatmaps indicating global mean temperature in a defined early and late period and the variance between the two under SSP 1-2.6 under the UK Earth System Model
+## Heatmaps indicating global mean temperature in a defined early and late period and the variance between the two
+
+### UK Earth System Model
+#### Under SSP 1-2.6
 
 ![UKESM SSP126 Temp Variance](Temp_UKESM_126.png)
+
+#### Under SSP 5-8.5
+![UKESM SSP585 Temp Variance](Temp_UKESM_585.png)
