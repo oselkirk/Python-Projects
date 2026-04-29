@@ -10,4 +10,4 @@ Tools used:
 - pandas
 - matplotlib
 
-![AMOC Timeseries](AMOCTimeSeries)
+![AMOC Timeseries](AMOCTimeSeries.png)
